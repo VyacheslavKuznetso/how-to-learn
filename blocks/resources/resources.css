@@ -1,0 +1,12 @@
+.resources {
+    min-width: 1100px;
+    max-width: 1600px;
+    padding: 100px 0 217px 0;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
