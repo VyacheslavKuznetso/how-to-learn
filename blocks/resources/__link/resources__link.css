@@ -3,3 +3,8 @@
     height: 38px;
     object-fit: contain;
 }
+
+.resources__link:hover {
+    width: 272px;
+    height: 40px;
+}
